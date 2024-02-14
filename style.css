@@ -56,6 +56,12 @@ button {
 }
 
 img {
+    margin: auto;
     margin-top: 30px;
-    width: 400px;
+    width: 350px;
+}
+
+.gambar {
+    margin: auto;
+    
 }
